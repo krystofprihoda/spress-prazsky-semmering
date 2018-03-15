@@ -8,6 +8,8 @@ details:
   picture: jinonice.jpg
   picture_cc: 'VitVit, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a>'
   picture_url: "https://commons.wikimedia.org/wiki/File:Jinonice_n%C3%A1dra%C5%BE%C3%AD_0.jpg"
+  north: 50.055178 
+  east: 14.377787 
 ---
 
 > Praha-Jinonice je železniční stanice v Praze 5-Radlicích na adrese Radlická 40/109.

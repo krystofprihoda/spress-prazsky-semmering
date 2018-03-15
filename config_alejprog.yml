@@ -1,0 +1,9 @@
+title: "Pražský Semmering"
+url: '/~prihoda/semmering'
+parsedown_actived: true
+author:
+    name: "Kryštof Příhoda"
+collections:
+    zastavky:
+      output: true
+      layout: zastavka
